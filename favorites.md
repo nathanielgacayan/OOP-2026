@@ -5,7 +5,7 @@ Adobong Dog
 Dog
 
 # Place
-Mountain Top
+Top of the Mountain
 
 # Brand
 Oxygen
