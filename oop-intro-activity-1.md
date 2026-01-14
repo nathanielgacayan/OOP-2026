@@ -1,24 +1,21 @@
 # Class
-Brand
+Slippers
 
 
 # Properties
-- Clothing name
-- Clothes
+- Brand name
+- Size
 - Quality
-- Cost
 
 
 ---
 # Object 1
-- Oxygen
-- T-shirt
-- Cotton
-- expensive
+- havaianas
+- 42
+- comfort
 
 # Object 2
-- Penshoppe
-- Sweater
-- Cotton
-- expensive
+- rambo
+- 40
+- durability
 
